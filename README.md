@@ -34,7 +34,7 @@ cd fake-news-detection
 2. Run the model training script to train the fake news detection model.
 
 ## Data
-
+The dataset link: https://www.kaggle.com/competitions/fake-news
 The dataset consists of three CSV files:
 
 - `train.csv`: A full training dataset containing news articles with attributes:

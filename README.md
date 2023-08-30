@@ -1,6 +1,5 @@
 # Fake News Detection Project
 
-![Project Logo](link_to_your_logo.png)
 
 This project aims to detect fake news using machine learning techniques. It includes data preprocessing, feature extraction, model training, and deployment.
 
@@ -47,7 +46,6 @@ The dataset consists of three CSV files:
 
 - `test.csv`: A testing dataset with the same attributes as `train.csv`, excluding the label.
 
-- `submit.csv`: A sample submission file that you can use as a template for your results.
 
 ## Model
 

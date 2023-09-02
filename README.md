@@ -35,7 +35,7 @@ cd fake-news-detection
 
 ## Data
 The dataset link: https://www.kaggle.com/competitions/fake-news
-The dataset consists of three CSV files:
+
 
 - `train.csv`: A full training dataset containing news articles with attributes:
 - `id`: Unique ID for a news article.
